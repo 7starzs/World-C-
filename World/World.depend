@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1677277121 source:c:\users\seyha\desktop\c embeded code\world\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Material.h"
+	"Iron.h"
+	"Wood.h"
+
+1677276035 c:\users\seyha\desktop\c embeded code\world\material.h
+
+1677277841 c:\users\seyha\desktop\c embeded code\world\iron.h
+
+1677276597 c:\users\seyha\desktop\c embeded code\world\wood.h
+
